@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sala Chat</string>
+    <string name="action_leave">Salir</string>
+    <string name="action_send">Enviar</string>
+    <string name="prompt_message">Mensage</string>
+
+    <string name="connect">Conectado</string>
+    <string name="disconnect">Desconectado, por favor revise su conexión a internet</string>
+    <string name="error_connect">Falló la conexión</string>
+
+    <!-- chatMessages -->
+    <string name="message_welcome">Bienvenido a Socket Chat –</string>
+    <plurals name="message_participants">
+        <item quantity="one">hay %d participante</item>
+        <item quantity="other">hay %d participantes</item>
+    </plurals>
+    <string name="message_user_joined">%s agregado</string>
+    <string name="message_user_left">%s izquierda</string>
+    <string name="user_action_typing">escribiendo</string>
+    <string name="chat_message">Mensaje</string>
+    <string name="chat_user">Usuario:</string>
+    <string name="chat_log_message">hay 100 participantes</string>
+    <string name="chat_log_user">Usuario:</string>
+    <string name="title_welcome">Bienvenido</string>
+
+</resources>
